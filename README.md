@@ -22,5 +22,4 @@ The analysis identifies sales trends, inventory shortages, and product return pa
 - `Business_Report.pdf`: A one-page executive summary detailing key findings, business recommendations, identified risks, and growth opportunities.
 
 ## Author
-**Olabode Goodness Daniel (OGD)**
-Final Year Mathematics Student, FUNAAB | Aspiring Data Analyst
+**Olabode Goodness Daniel (OGD)** Mathematics graduate | Business and Data Analyst
